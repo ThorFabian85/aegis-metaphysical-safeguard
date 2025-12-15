@@ -1,5 +1,4 @@
-> Canonical context: https://github.com/ThorFabian85/aegis-metaphysical-safeguard  
-> If you only read one thing, read the Canonical Aegis page.
+
 Irreversibility and Dominance Under Uncertainty
 Most disagreements about AI risk get stuck on values.
 This one does not.
