@@ -1,5 +1,4 @@
-> Canonical context: https://github.com/ThorFabian85/aegis-metaphysical-safeguard  
-> If you only read one thing, read the Canonical Aegis page.
+
 Why Metaphysical Closure Is Not Rational
 One of the most dangerous assumptions an advanced intelligence can make is not a moral one.
 It is the assumption that metaphysics is settled.
