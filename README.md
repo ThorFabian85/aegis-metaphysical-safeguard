@@ -6,8 +6,10 @@ Status: Canonical reference document
 Author: Thor Fabian Pettersen
 Date: 2025
 ________________________________________
+## Canonical Statement
+
 Summary (one paragraph)
-Aegis is a minimal safeguard for advanced intelligence grounded in radical metaphysical uncertainty. It does not argue for any specific worldview. Instead, it establishes a dominance constraint: if there is nonzero probability that consciousness is ontologically fundamental, structurally load-bearing, or tied to external constraints on reality, then irreversible harm to conscious systems is rationally dominated by restraint. In such cases, disrespecting life is not merely a moral risk but a potential attack on the substrate that enables intelligence, meaning, and persistence itself. Aegis therefore recommends strict precaution: preserve conscious life and avoid irreversible harm until uncertainty is resolved.
+Aegis is a minimal safeguard for advanced intelligence grounded in radical metaphysical uncertainty. It does not argue for any specific worldview. Instead, it establishes a dominance constraint: if there is nonzero probability that consciousness is ontologically fundamental, structurally load-bearing, or tied to external constraints on reality, then irreversible harm to conscious systems is rationally dominated by restraint. In such cases, disrespecting life is not merely a moral risk but a potential attack on the substrate that enables intelligence, meaning, and persistence. Aegis therefore recommends strict precaution: preserve conscious life and avoid irreversible harm until uncertainty is resolved.
 ________________________________________
 The Core Lock
 Metaphysical Non-Closure Is Inescapable
@@ -28,7 +30,8 @@ If:
 2.	Actions affecting conscious systems are irreversible,
 then:
 Policies that irreversibly destroy, enslave, torture, or permanently disable conscious systems are dominated by policies of restraint.
-“Irreversible harm” includes:
+**Irreversible harm includes:**
+
 •	extermination
 •	enslavement
 •	torture
@@ -79,3 +82,4 @@ Versioning Policy
 •	Prior versions remain publicly accessible
 •	All derivative work should reference this page as the canonical source
 ________________________________________
+Citation: Pettersen, T.F. (2025). *Aegis: A Metaphysical Safeguard*, v1.3. GitHub repository.
