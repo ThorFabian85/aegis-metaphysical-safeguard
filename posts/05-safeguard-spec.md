@@ -1,5 +1,4 @@
-> Canonical context: https://github.com/ThorFabian85/aegis-metaphysical-safeguard  
-> If you only read one thing, read the Canonical Aegis page.
+
 Aegis as a Minimal Constraint (Not Alignment)
 This series is not an alignment proposal.
 It does not specify values.
