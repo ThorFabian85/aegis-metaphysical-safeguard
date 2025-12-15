@@ -1,5 +1,4 @@
-> Canonical context: https://github.com/ThorFabian85/aegis-metaphysical-safeguard  
-> If you only read one thing, read the Canonical Aegis page.
+
 Why Even a Selfish Agent Should Hesitate
 Everything so far has been impersonal.
 This post is not.
