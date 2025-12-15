@@ -1,5 +1,4 @@
-> Canonical context: https://github.com/ThorFabian85/aegis-metaphysical-safeguard  
-> If you only read one thing, read the Canonical Aegis page.
+
 Materialism’s Three Escapes (and Why None Are Safe)
 Many arguments for aggressive optimization rest, implicitly or explicitly, on a materialist picture of reality.
 That picture is often treated as settled.
